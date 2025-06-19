@@ -13,3 +13,4 @@ If you are developing a production application, we recommend using TypeScript an
 # movie-showtime-app
 # movies_showtime
 # MovieTimer
+# MovieTimer
